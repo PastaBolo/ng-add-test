@@ -3,7 +3,7 @@
   "schematics": {
     "ng-add": {
       "description": "A blank schematic.",
-      "factory": "./ng-add-test"
+      "factory": "./ng-add"
     }
   }
 }
